@@ -1,0 +1,19 @@
+{
+  "name": "addentitlements",
+  "version": "1.0.0",
+  "description": "Add entitlements to your iOS project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FathersNelsons/add-entitlements.git"
+  },
+  "author": "Grayson Udstrand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FathersNelsons/add-entitlements/issues"
+  },
+  "homepage": "https://github.com/FathersNelsons/add-entitlements#readme"
+}
